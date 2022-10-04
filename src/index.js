@@ -1,1 +1,3 @@
-let hello = <h1>Hello world!</h1>
+function sayHello(name){
+    return <h1>hello, {name}!</h1>
+}
